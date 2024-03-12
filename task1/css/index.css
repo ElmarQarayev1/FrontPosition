@@ -29,14 +29,13 @@
     opacity: 0.9;
 }
 .time h1{
-    display: inline;
-    padding: 50px;
+    display: inline-block;
+    padding-left:  50px;
     color: aliceblue;
     font-size: 20px;
 }
-.time p{
-    
-    display: inline;
+.time p{   
+    display: inline-block;
     padding-left: 5px;
     color: aliceblue;
     font-size: 20px;
@@ -44,19 +43,18 @@
 .ramazanpic .oxu{      
     position: absolute;
     padding: 7px 0px;
-    margin-left: 120px;
-   
-    width: 91%;
-    left: -490px;
+    margin-left: 13%;
+    width: 88%;
+    left: -600px;
+    text-align: center;
     background-color: rgb(77, 153, 166);
     opacity: 0.2;
     transform: rotate(90deg);
 }
 .ramazanpic .oxu h1{
-    display: inline;
-    padding: 120px;
-    transform: rotate(10deg);
-    
+    padding-right: 150px;
+    display: inline-block;
+    transform:rotate(180deg)
 }
 .ramazanpic .oxu1{      
     position: absolute;
@@ -68,6 +66,7 @@
     opacity: 0.2;
 }
 .ramazanpic .oxu1 h1{
-    display: inline;
-    padding: 120px;
+    padding-left: 200px;
+    display: inline-block;
+   text-align: center;
 }
