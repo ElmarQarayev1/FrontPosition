@@ -1,0 +1,73 @@
+
+.ramazan{
+    width: 100%;
+    height: 100vb;
+}
+.ramazan .ramazanpic{
+    position: relative;
+    width: 100%;
+    height: 85vb;
+    background-image: url(/task1/image/ramazan.jpeg);
+}
+.ramazan .foot{
+    width: 100%;
+    height:15vb;
+    background-color: rgb(53, 52, 52);
+}
+.ramazan .foot h1{
+    padding: 0px 25px 0px 25px;
+    color: aliceblue;
+    font-size: 50px;
+}
+.time{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 21%;
+    background-color: rgb(77, 153, 166);
+    padding: 20px 10px;
+    opacity: 0.9;
+}
+.time h1{
+    display: inline;
+    padding: 50px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.time p{
+    
+    display: inline;
+    padding-left: 5px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.ramazanpic .oxu{      
+    position: absolute;
+    padding: 7px 0px;
+    margin-left: 120px;
+   
+    width: 91%;
+    left: -490px;
+    background-color: rgb(77, 153, 166);
+    opacity: 0.2;
+    transform: rotate(90deg);
+}
+.ramazanpic .oxu h1{
+    display: inline;
+    padding: 120px;
+    transform: rotate(10deg);
+    
+}
+.ramazanpic .oxu1{      
+    position: absolute;
+    padding: 7px 0px;
+    width: 100%;
+    bottom: 100px;
+    left: 0;
+    background-color: rgb(77, 153, 166);
+    opacity: 0.2;
+}
+.ramazanpic .oxu1 h1{
+    display: inline;
+    padding: 120px;
+}
