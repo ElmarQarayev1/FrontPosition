@@ -42,23 +42,23 @@
 }
 .ramazanpic .oxu{      
     position: absolute;
-    width: 89%;
-    right: 500px;
+    width: 90%;
+    right: 40%;
     text-align: center;
     background-color: rgb(77, 153, 166);
     opacity: 0.2;
-    transform: rotate(90deg);
+     rotate:90deg;
 }
 .ramazanpic .oxu h1{
-    padding: 7px 90px; 
+    padding: 7px 90px;
     display: inline-block;
-    transform:rotate(180deg)
+    rotate:180deg;
 }
 .ramazanpic .oxu1{ 
     position: absolute;
     padding: 7px 0px;
     width: 100%;
-    bottom: 100px;
+    bottom: 20%;
     left: 0;
     background-color: rgb(77, 153, 166);
     opacity: 0.2;
